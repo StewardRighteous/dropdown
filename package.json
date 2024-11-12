@@ -1,0 +1,18 @@
+{
+  "name": "dropdown-hide-or-show-element",
+  "version": "1.0.1",
+  "description": "Package used to show or hide an element with 3 functions namely showDropDown(), hideDropDown() and toggleShowOrHideDropDown(). It is created for dropdowns but can be used on other elements too. It uses two classes named \"show\" and \"hide\" in order to show or hide elements. So make sure you don't reuse these class names.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dropdown",
+    "show",
+    "or",
+    "hide",
+    "element"
+  ],
+  "author": "Steward Righteous",
+  "license": "ISC"
+}
